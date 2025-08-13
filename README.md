@@ -1,0 +1,2 @@
+# bce-compliance-hub
+Plataforma web para entidades financieras, fintechs y agregadores de pagos que deben cumplir con reportes del BCE. Integra calendario y WhatsApp para recordatorios, permite cargar insumos y genera reportes en formato y estructura exigidos por la normativa.
